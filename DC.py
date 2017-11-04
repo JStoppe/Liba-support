@@ -59,7 +59,7 @@ async def on_message(message):
                                                     "- Münzenwerfen = (!coin) \n"
                                                     "- ein Zahlenspiel = (!Zahlenspil) \n "
                                                     "- Schere,Stein,Papier = (!SSP)")
-    
+
 
 
 
